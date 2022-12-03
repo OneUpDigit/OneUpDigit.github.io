@@ -653,5 +653,5 @@ footer {
     }
     
     .footer__home--button {
-        background-color: transparent;
+        display: none;
     }
