@@ -568,6 +568,7 @@ footer {
         width: 50%;
         display: flex;
         position: relative;
+        padding-bottom: 16px;
     }
     
     .highlight__wrapper {
@@ -577,12 +578,12 @@ footer {
         flex-wrap: wrap;
     }
 
-    .highligh__para {
+    .highlight__para {
         font-size: 12px;
         font-weight: 700;
         width: 115px;
     }
-
+    
     .section__title {
         font-size: 36px;
     }
