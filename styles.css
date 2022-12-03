@@ -652,4 +652,6 @@ footer {
         border-color: white;
     }
     
-}
+    .footer__home--button {
+        background-color: transparent;
+    }
