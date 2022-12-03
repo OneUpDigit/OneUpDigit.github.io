@@ -567,7 +567,6 @@ footer {
     .highlight {
         width: 50%;
         display: flex;
-        justify-content: center;
         position: relative;
     }
     
