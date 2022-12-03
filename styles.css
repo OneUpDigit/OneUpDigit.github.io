@@ -563,9 +563,19 @@ footer {
         width: 60px;
         height: 60px; 
     }
-
+    
+    .highlight {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        position: relative;
+    }
+    
     .highlight__wrapper {
-        padding: 0px 18px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        flex-wrap: wrap;
     }
 
     .highligh__para {
