@@ -584,6 +584,14 @@ footer {
         width: 115px;
     }
     
+    .highlight__para--2 {
+        padding-top: 26px;
+    }
+    
+    .highlight__para--4 {
+        padding-top: 26px;
+    }
+    
     .section__title {
         font-size: 36px;
     }
