@@ -540,6 +540,9 @@ footer {
     .h3__subheading {
         font-size: 16px;
     }
+    
+    .header__img--link {
+        padding: 0px;
 
     .btn {
         padding: 8px 16px ;
