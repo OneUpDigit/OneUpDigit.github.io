@@ -599,6 +599,14 @@ footer {
     .subtitle__approach {
         font-size: 24px;
     }
+    
+    .approach__wrapper {
+        padding: 8px 28px 12px 28px;
+    }
+    
+    .approach__subtitle {
+        padding-right: 12px;
+    }
 
     .subtitle__approach--2 {
         padding-bottom: 34px;
@@ -611,10 +619,15 @@ footer {
     .p-tag__approach {
         font-size: 16px;
     }
+    
+    .x__mark {
+        padding-right: 16px;
+    }
 
     .dont__list--approach {
         font-size: 16px;
         padding-top: 12px;
+        padding-left: 8px;
     }
 
     .free__title {
