@@ -543,9 +543,11 @@ footer {
     
     .header__img--wrapper {
         padding: 16px 108px 140px 108px;
-    
+    }
+        
     .header__img--link {
         padding: 0px;
+    }
 
     .btn {
         padding: 8px 16px ;
